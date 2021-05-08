@@ -1,0 +1,12 @@
+c:\users\max.larsson3\documents\visual studio 2017\Projects\novemberprojekt\novemberprojekt\bin\Debug\netcoreapp1.1\novemberprojekt.deps.json
+c:\users\max.larsson3\documents\visual studio 2017\Projects\novemberprojekt\novemberprojekt\bin\Debug\netcoreapp1.1\novemberprojekt.runtimeconfig.json
+c:\users\max.larsson3\documents\visual studio 2017\Projects\novemberprojekt\novemberprojekt\bin\Debug\netcoreapp1.1\novemberprojekt.runtimeconfig.dev.json
+c:\users\max.larsson3\documents\visual studio 2017\Projects\novemberprojekt\novemberprojekt\bin\Debug\netcoreapp1.1\novemberprojekt.dll
+c:\users\max.larsson3\documents\visual studio 2017\Projects\novemberprojekt\novemberprojekt\bin\Debug\netcoreapp1.1\novemberprojekt.pdb
+c:\users\max.larsson3\documents\visual studio 2017\Projects\novemberprojekt\novemberprojekt\obj\Debug\netcoreapp1.1\novemberprojekt.AssemblyInfo.cs
+c:\users\max.larsson3\documents\visual studio 2017\Projects\novemberprojekt\novemberprojekt\obj\Debug\netcoreapp1.1\novemberprojekt.dll
+c:\users\max.larsson3\documents\visual studio 2017\Projects\novemberprojekt\novemberprojekt\obj\Debug\netcoreapp1.1\novemberprojekt.pdb
+C:\Users\max.larsson3\Documents\Visual Studio 2017\Projects\novemberprojekt\novemberprojekt\obj\Debug\netcoreapp1.1\novemberprojekt.csprojAssemblyReference.cache
+C:\Users\max.larsson3\Documents\Visual Studio 2017\Projects\novemberprojekt\novemberprojekt\obj\Debug\netcoreapp1.1\novemberprojekt.AssemblyInfoInputs.cache
+C:\Users\max.larsson3\Documents\Visual Studio 2017\Projects\novemberprojekt\novemberprojekt\obj\Debug\netcoreapp1.1\novemberprojekt.csproj.CoreCompileInputs.cache
+C:\Users\max.larsson3\Documents\Visual Studio 2017\Projects\novemberprojekt\novemberprojekt\obj\Debug\netcoreapp1.1\novemberprojekt.genruntimeconfig.cache
